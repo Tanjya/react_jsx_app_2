@@ -1,0 +1,14 @@
+.products {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.product_info {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  margin: 70px;
+}
+.product_sum {
+  background-color: rgba(215, 172, 64, 0.3);
+  padding: 20px;
+}

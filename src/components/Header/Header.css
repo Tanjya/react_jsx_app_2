@@ -1,0 +1,15 @@
+.header-section {
+  background-color: #1c2b35;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.header-section a {
+  text-decoration: none;
+  color: white;
+  margin: 30px;
+}
+.header-section a:hover {
+  color: orange;
+}
